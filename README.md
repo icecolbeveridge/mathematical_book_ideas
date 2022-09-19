@@ -4,6 +4,7 @@ Every so often, I sit down and write down ideas for maths books I -- or someone 
 
 ## The big list
 
+- Simple ideas that won Economics Nobel Prizes
 - Group theory in the wild
 - Abstract maths and how it helps
 - Damnit Jim I'm a [Psychologist] not a mathematician
